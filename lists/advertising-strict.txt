@@ -306,6 +306,7 @@ adsyndication.msn.com
 adsys.sinovision.net
 adt.cpatrk.net
 adtest.adwo.com
+adtrack.e.kuaishou.com
 adtrack.ucweb.com
 adui.tg.meitu.com
 adultmoda.com
@@ -334,6 +335,7 @@ adx.kuaiyiad.com
 adx.maplehaze.cn
 adx.pro.cn
 adx.rrt365.com
+adx.sogaha.cn
 adx.timewit.cn
 adx.xiaodutv.com
 adxlog.vivo.com.cn
@@ -399,6 +401,7 @@ api.e.kuaishou.com
 api.exc.mob.com
 api.fc.mob.com
 api.fd.mob.com
+api.jialiangad.com
 api.mobgi.com
 api.newad.ifeng.com
 api.openinstall.io
@@ -414,6 +417,7 @@ api.tw06.xlmc.sec.miui.com
 api.verify.mob.com
 api.w.inmobi.com
 api.wsq.umeng.com
+api.yidaomobi.com
 api.youxiaoad.com
 api.yuedu.iqiyi.com
 api1.888zy.cn
@@ -696,6 +700,7 @@ ei.cnzz.com
 eiv.baidu.com
 emoticon.sns.iqiyi.com
 ems.cp12.wasu.tv
+engine.liandaomobi.com
 engine.lvehaisen.com
 engine.tuia.cn
 entry.baidu.com
@@ -1026,6 +1031,7 @@ omgmta.play.aiseet.atianqi.com
 omgmta.play.ott.video.qq.com
 onrt-stsdk.vivo.com.cn
 onrt.stsdk.vivo.com.cn
+open.e.kuaishou.cn
 open.e.kuaishou.com
 openjmacs.m.taobao.com
 openrcv.baidu.com
@@ -1056,6 +1062,8 @@ p.medialytics.com
 p.s.360.cn
 p.store.qq.com
 p.tencentmind.com
+p1-lm.adkwai.com
+p1.adkwai.com
 p2.l.qq.com
 p2sdmkj6t.bkt.clouddn.com
 p3.adkwai.com
@@ -1148,6 +1156,7 @@ rcv.aiclk.com
 rd596n.jomodns.com
 report-stats.ad.jiguang.cn
 report.adview.cn
+report.yumobi.cn
 req.appads.com
 req1.appads.com
 req2.appads.com
@@ -1285,6 +1294,7 @@ ssp-api.domob.cn
 ssp-event.domob.cn
 ssp.1nmob.com
 ssp.cibn.starschina.com
+ssp.indexmob.com
 ssp.pro.cn
 ssp.tadseeker.com
 ssp.youxiaoad.com
@@ -1379,6 +1389,7 @@ tpc.googlesyndication.com
 tr.adsame.com
 track.adwo.com
 track.adx.adlefee.com
+track.adxwork.com
 track.celtra.com
 track.mediav.com
 tracker.sns.iqiyi.com

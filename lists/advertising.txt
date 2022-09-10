@@ -1,3 +1,21 @@
+# ==============================================
+# AdList generated on: Fri, 09 Sep 2022 20:38:10 GMT
+# Project URL: http://www.richardn.ca/pihole-adlist-updater
+# ==============================================
+# Generated from 10 source(s)
+# 
+# AdAway | AdAway | https://adaway.org/
+# firebog | firebog | https://firebog.net/
+# firebog | firebog | https://firebog.net/
+# GitHub | anudeepND | https://github.com/anudeepND/blacklist
+# Site | Disconnect.me | https://disconnect.me/
+# firebog | firebog | https://firebog.net/
+# Site | pgl.yoyo.org | https://pgl.yoyo.org/
+# GitHub | FadeMind | https://github.com/FadeMind/hosts.extras
+# GitHub | bigdargon | https://github.com/bigdargon/hostsVN
+# Site | oisd | https://oisd.nl/
+# 
+# ==============================================
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Last modified: 2022-09-10T00:04:02+0200

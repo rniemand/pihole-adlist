@@ -1,3 +1,14 @@
+# ==============================================
+# AdList generated on: Fri, 09 Sep 2022 20:38:09 GMT
+# Project URL: http://www.richardn.ca/pihole-adlist-updater
+# ==============================================
+# Generated from 3 source(s)
+# 
+# GitHub | Filters Heroes | https://github.com/FiltersHeroes/KADhosts
+# GitHub | FadeMind | https://github.com/FadeMind/hosts.extras
+# firebog | firebog | https://firebog.net/
+# 
+# ==============================================
 0-01x-merchandise.554217.xyz
 0003update.wolf-trademarket.live
 004-8send-jngpro0-duct23.7980245.xyz

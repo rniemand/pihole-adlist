@@ -1,3 +1,12 @@
+# ==============================================
+# AdList generated on: Fri, 09 Sep 2022 20:38:14 GMT
+# Project URL: http://www.richardn.ca/pihole-adlist-updater
+# ==============================================
+# Generated from 1 source(s)
+# 
+# GitLab | ZeroDot1 | https://gitlab.com/ZeroDot1/CoinBlockerLists/-/tree/master/
+# 
+# ==============================================
 000.0x1f4b0.com
 001.0x1f4b0.com
 002.0x1f4b0.com

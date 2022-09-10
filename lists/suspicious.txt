@@ -1,5 +1,5 @@
 # ==============================================
-# AdList generated on: Fri, 09 Sep 2022 20:38:09 GMT
+# AdList generated on: Fri, 09 Sep 2022 20:55:39 GMT
 # Project URL: http://www.richardn.ca/pihole-adlist-updater
 # ==============================================
 # Generated from 3 source(s)
@@ -847,6 +847,7 @@ actus.org.pl
 acutedisseminatedencephalomyelitispedia.com
 acylatad.xyz
 aczarniecka.pl
+ad-cdn.technoratimedia.com
 ad-cdn.technoratimedia.com # LA Times
 ad.aniu.tv
 ad.fyber.angsrvr.com
@@ -1404,6 +1405,7 @@ alohafromdeer.com
 alohasoftware.net
 alonewiththemalones.blogspot.com
 aloofsmar.site
+aloseks.org
 aloseks.org # Phishing
 aloyogapolska.com
 aloyogapolska.pl
@@ -1476,7 +1478,9 @@ anacetina.com
 analoguemi.pl
 analsz.pl
 analystset.com
+analytics.ff.avast.com
 analytics.ff.avast.com # CCleaner Temeletry
+analytics.kidoz.net
 analytics.kidoz.net # Hopster
 analytics.plex.tv
 analytics.servogram.io
@@ -1573,9 +1577,11 @@ apex-rents.com
 api-lytics.macpaw.com
 api.amplitude.com
 api.branch.io
+api.data-monitor.info
 api.data-monitor.info # As above
 api.myeforsa.pl
 api.privy.com
+api.redshell.io
 api.redshell.io # https://redd.it/8pud8b
 api.south.kontagent.net
 api.viafoura.co
@@ -1593,6 +1599,7 @@ apophth.com
 aposiopesesexpecting.com
 apostasyundefined.com
 apozy.biz
+app-analytics.snapchat.com
 app-analytics.snapchat.com # Snapchat
 app-eact.protrobit.site
 app-findmyweb.com
@@ -1828,6 +1835,7 @@ assetgroup.cc
 assetgroup.ltd
 assetgroup.xyz
 assetholdinglimited.com
+assets.micpn.com
 assets.micpn.com # MovableInk
 assets.movievod.pl
 assinaturawebcef.com
@@ -3319,12 +3327,14 @@ calyfilmhd.over-blog.com
 calykindsa.tk
 calyxesnon.pl
 calzini.org
+cameforcameand33212.com
 cameforcameand33212.com # OSXMokes
 camiliana.pl
 campanolog.pl
 campanologyentombed.info
 campbellsvilles.info
 camperwarszawa.com
+campingforthefunofit.com
 campingforthefunofit.com # Phishing
 camvideosit.grweb.site
 canadiangovbenefits.com
@@ -4012,6 +4022,7 @@ colehaanbuty.com
 colehaanbutypolska.com
 collagingg.com
 collapce-com.preview-domain.com
+collector.abc-host.net.au
 collector.abc-host.net.au # ABC iView
 collectorb.tvsquared.com
 collenchym.pl
@@ -4125,6 +4136,7 @@ content.51c7b93f64.cache.server560960.nazwa.pl
 content.9373550162.cache.server560960.nazwa.pl
 content.a36a438502.cache.server560960.nazwa.pl
 content.f81241f2e1.cache.server560960.nazwa.pl
+content.synapsys.us
 content.synapsys.us # LA Times
 content.tapjoy.com
 contentlockingnetworks.com
@@ -4454,6 +4466,7 @@ cta-ventil.eu
 ctbike.pl
 ctdtires.com
 ctizuhvdko.web.app
+ctoid.net
 ctoid.net # HSTS Supercookie http://bit.ly/2xJJUPP
 ctxholdings.com
 cubarepresion.com
@@ -4522,6 +4535,7 @@ cyberneticart.biz
 cyberportfolio.pl
 cybexsecurity.agilepkpos.com
 cyclically.pl
+cydia.saurik.com.cdngc.net
 cydia.saurik.com.cdngc.net # Cydia/Bigboss
 cyeseschuc.de
 cyfenui2.xyz
@@ -5562,6 +5576,7 @@ d34zwo5uunib6m.cloudfront.net
 d3513xcfpbcnht.cloudfront.net
 d353opvralusbw.cloudfront.net
 d35eidnpa6n59v.cloudfront.net
+d35fgcharv2shj.cloudfront.net
 d35fgcharv2shj.cloudfront.net # Adobe telemetry
 d35fn0cbzlxh7p.cloudfront.net
 d35foc023xb122.cloudfront.net
@@ -6234,6 +6249,7 @@ deliciouscloud.com
 delide.pl
 delightful-arithmetic-791f00.netlify.app
 delinqu.pl
+deliver.oztam.com.au
 deliver.oztam.com.au # ABC iView
 deliveredchital.info
 deliveredrecolonizations.info
@@ -7447,6 +7463,7 @@ e-wypadek-info24news.pl
 e-yourmovies.com
 e1a20.com
 e3178dfde8.natrasiekorzysci.pl
+e5019.e2.akamaiedge.net
 e5019.e2.akamaiedge.net # Vungle
 e729ca90eb.natrasiekorzysci.pl
 e9b0y8.webwave.dev
@@ -7782,6 +7799,7 @@ enerreplo.space
 enfilademo.xyz
 engagement.sandesh.com
 engildsempiricisms.com
+engine.fyber.com
 engine.fyber.com # Mobile games
 engineeringbybirk.com
 england365.gr
@@ -7943,6 +7961,7 @@ eurstor.maskts-unlim.xyz
 eusfet.pl
 eut.co-app-eu.xyz
 eutesl.coin-mark.xyz
+euw.adserver.snapads.com
 euw.adserver.snapads.com # Snapchat
 euwowclassic.com
 evarest.biz
@@ -8443,6 +8462,7 @@ fbweryfikacja123.blogspot.com
 fc6b2f4fb0.natrasiekorzysci.pl
 fcfg.pl
 fcolors.blogspot.com
+fd-fp3.wg1.b.yahoo.com
 fd-fp3.wg1.b.yahoo.com # Tumblr
 fd-pge.web.app
 fd1b8acf4f.natrasiekorzysci.pl
@@ -9702,6 +9722,7 @@ grimace.sbs
 grintello.com
 grlotosinvve.info
 grnpower.io
+groceriesgiftcards.com
 groceriesgiftcards.com # Phishing
 grocersgro.com
 grodohom-invest.com
@@ -10662,6 +10683,7 @@ in-prog.alxprogs.xyz
 in-projj.web.app
 in.capitalpol.xyz
 in.peqwik.site
+in.treasuredata.com
 in.treasuredata.com # RedShell
 in149ovationproject.tech
 in171ovationproject.tech
@@ -11214,6 +11236,7 @@ init-a.web.app
 init-p.web.app
 initialprotection.com
 injinw.web.app
+ink1001.com
 ink1001.com # MovableInk
 ink2.ceochat.xyz
 inkvisquizy.space
@@ -13418,6 +13441,7 @@ ipanemasandaly.com
 ipfs.fleek.co
 ipfwstudenthousing.com
 iphone-za-darmo.over-blog.com
+iphone.aut5.com
 iphone.aut5.com # https://t.co/8OWVnDjucG
 iphone.ico-pl.xyz
 iphonelocation.us
@@ -13722,6 +13746,7 @@ jiajinna.com
 jianso.store
 jicamasbar.pl
 jiedas.site
+jikenick12and67.com
 jikenick12and67.com # OSXMokes
 jikolods.space
 jilarohtas.com
@@ -15247,6 +15272,7 @@ lplpge.firebaseapp.com
 lplpge.web.app
 lq1u76.web.app
 ls-projekt.site
+ls.srvcs.tumblr.com
 ls.srvcs.tumblr.com # Tumblr
 lspot.pl
 lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog
@@ -18696,6 +18722,7 @@ opel.km.ua
 open-plproject.cloud
 open-project.live
 open.inkfrog.com
+open.oneplus.net
 open.oneplus.net # Android
 openacia.web.app
 opencache.com
@@ -22574,6 +22601,7 @@ quantum.nordinvest.live
 quantum.worldinvest.ink
 quantum1ai.web.app
 quantummarket.net
+quantummetric.com
 quantummetric.com # Cydia/Bigboss
 quantumpro.site
 quantumpro.xyz
@@ -23381,6 +23409,7 @@ sa3edsolution.com
 saav-ketyl.protrobit.site
 sabalimgbaja119.web.app
 sabatel.capital
+saber.srvcs.tumblr.com
 saber.srvcs.tumblr.com # Tumblr
 sabvello.website
 sachemsoutpasses.com
@@ -24112,6 +24141,7 @@ shopsuanon.vn
 shopvinted-pay.7890342.xyz
 shopyeti.com
 shorka24.info
+shortyz.co
 shortyz.co # Phishing
 shought.space
 shoutsecular.com
@@ -24775,6 +24805,7 @@ start.newstartatus.co.pl
 start2log-forwatching.4tvnowshows.co.pl
 startbig01.club
 startconstituency.com
+startdigitaal.nl
 startdigitaal.nl # DDE Exploit via @MalwareTechBlog
 starti.pl
 startnow8328a-for283a.ponetafix.co.pl
@@ -24796,6 +24827,7 @@ stasleherzamortmemb.ga
 stat-x.alxprogs.xyz
 stateofdelaney.com
 statgw2.devtodev.com
+static-assets-queue-it.net
 static-assets-queue-it.net # https://bit.ly/2NQzE0I
 static.tidiochat.com
 static.zotabox.com
@@ -25428,6 +25460,7 @@ tafars.win
 tafogo-uno.preview-domain.com
 tafpj972383637kfde.ef1i.pics
 taggingfortalent.com
+tags.tiqcdn.com
 tags.tiqcdn.com # Ancestery
 tahlequahbest.org
 tahmos.com
@@ -25606,6 +25639,7 @@ telefonia.shoplo.com
 teleinfo24.net
 telemediaa.pl
 telemetry.gfe.nvidia.com
+telemetry.malwarebytes.com
 telemetry.malwarebytes.com # Malwarebytes
 telemetry.nvidia.com
 telenor.cfolks.pl
@@ -26698,6 +26732,7 @@ u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app
 u5ki8.laborartfilm.com
 u64203p61446.web0118.zxcs-klant.nl
 ua.gaznf.xyz
+uaswitcher.org
 uaswitcher.org # Chrome User-Agent Switcher trojan
 uayu6abnioaji.bar
 uberthemes.com
@@ -26972,6 +27007,7 @@ us.progestinyo.com
 us11.besteml.com
 usam12hd.beget.tech
 usario.com
+usc.adserver.snapads.com
 usc.adserver.snapads.com # Snapchat
 usechamber.com
 usecsgo.com
@@ -30735,6 +30771,7 @@ www.adidaspolskapl.com
 www.adidasteamstore.com
 www.adilfon.space
 www.adiloretui.ga
+www.adiode.com
 www.adiode.com # Anti adblock
 www.adipexretard.pl
 www.adka.maximizator-programplltd.xyz

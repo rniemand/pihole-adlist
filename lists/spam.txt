@@ -1,5 +1,5 @@
 # ==============================================
-# AdList generated on: Fri, 09 Sep 2022 21:04:18 GMT
+# AdList generated on: Fri, 09 Sep 2022 21:16:42 GMT
 # Project URL: http://www.richardn.ca/pihole-adlist-updater
 # ==============================================
 # Generated from 1 source(s)

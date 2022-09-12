@@ -1,5 +1,5 @@
 # ==============================================
-# AdList generated on: Fri, 09 Sep 2022 21:16:43 GMT
+# AdList generated on: Mon, 12 Sep 2022 09:59:35 GMT
 # Project URL: http://www.richardn.ca/pihole-adlist-updater
 # ==============================================
 # Generated from 2 source(s)
@@ -9493,6 +9493,7 @@ afin.doublepimp.com
 afklm.pxf.io
 afon2.voluumtrk.com
 afpapacprod.amobee.com
+afraidlanguage.com
 afrika-travel.de.intellitxt.com
 afrikaroman.de.intellitxt.com
 afs.ero-advertising.com
@@ -16335,6 +16336,7 @@ cosmopolitan.sl.advertising.com
 cosmos.marfeel.com
 cosmos.mirtesen.ru
 cosmos01.webtrekk.net
+cosmosjackson.com
 cossette.adgear.com
 cost-plus-world-market.evyy.net
 costplusmanagementservicesinc.demdex.net
@@ -27730,6 +27732,7 @@ measure.mobileapptracking.com
 measure.office.com
 measuread.com
 measuremap.com
+meatydime.com
 mebed.dm.gg
 med-api.admost.com
 med.de.intellitxt.com

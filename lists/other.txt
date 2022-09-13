@@ -1,5 +1,5 @@
 # ==============================================
-# AdList generated on: Mon, 12 Sep 2022 17:23:46 GMT
+# AdList generated on: Mon, 12 Sep 2022 18:14:56 GMT
 # Project URL: http://www.richardn.ca/pihole-adlist-updater
 # ==============================================
 # Generated from 2 source(s)
@@ -786,12 +786,12 @@ ads6.gamecity.net
 ads7.gamecity.net
 adsafeprotected.com
 adsatt.abc.starwave.com
-Adsatt.ABCNews.starwave.com
 adsatt.abcnews.starwave.com
+Adsatt.ABCNews.starwave.com
 adsatt.espn.go.com
 adsatt.espn.starwave.com
-Adsatt.go.starwave.com
 adsatt.go.starwave.com
+Adsatt.go.starwave.com
 adsby.bidtheatre.com
 adsbydelema.com
 adscale.de
